@@ -21,6 +21,7 @@ font-family: 'Merriweather', serif;
 h1{
   position: relative;
   margin-top: 100px;
+  margin-bottom: 20px;
   font-family: 'Sacramento', cursive;
   font-size: 5.65rem;
   color:#66bfbf;
